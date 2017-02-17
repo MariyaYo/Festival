@@ -15,7 +15,7 @@ public class Group {
 	}
 	
 	void perform(){
-		System.out.println("Now on stage is " + this.name + "Aploads!!!");
+		System.out.println("Now on stage is " + this.name + "Applause!!!");
 	}
 	
 	void addSong(Song a){
